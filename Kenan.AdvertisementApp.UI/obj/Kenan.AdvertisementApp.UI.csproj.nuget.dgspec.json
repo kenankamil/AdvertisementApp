@@ -1,0 +1,391 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kenan\\OneDrive\\Masaüstü\\sdf\\Protera\\AdvertisementApp\\Kenan.AdvertisementApp.UI\\Kenan.AdvertisementApp.UI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kenan\\OneDrive\\Masaüstü\\sdf\\Protera\\AdvertisementApp\\Kenan.AdvertisementApp.Business\\Kenan.AdvertisementApp.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kenan\\OneDrive\\Masaüstü\\sdf\\Protera\\AdvertisementApp\\Kenan.AdvertisementApp.Business\\Kenan.AdvertisementApp.Business.csproj",
+        "projectName": "Kenan.AdvertisementApp.Business",
+        "projectPath": "C:\\Users\\kenan\\OneDrive\\Masaüstü\\sdf\\Protera\\AdvertisementApp\\Kenan.AdvertisementApp.Business\\Kenan.AdvertisementApp.Business.csproj",
+        "packagesPath": "C:\\Users\\kenan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kenan\\OneDrive\\Masaüstü\\sdf\\Protera\\AdvertisementApp\\Kenan.AdvertisementApp.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kenan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\kenan\\OneDrive\\Masaüstü\\sdf\\Protera\\AdvertisementApp\\Kenan.AdvertisementApp.DataAccess\\Kenan.AdvertisementApp.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\kenan\\OneDrive\\Masaüstü\\sdf\\Protera\\AdvertisementApp\\Kenan.AdvertisementApp.DataAccess\\Kenan.AdvertisementApp.DataAccess.csproj"
+              },
+              "C:\\Users\\kenan\\OneDrive\\Masaüstü\\sdf\\Protera\\AdvertisementApp\\Kenan.AdvertisementApp.Dtos\\Kenan.AdvertisementApp.Dtos.csproj": {
+                "projectPath": "C:\\Users\\kenan\\OneDrive\\Masaüstü\\sdf\\Protera\\AdvertisementApp\\Kenan.AdvertisementApp.Dtos\\Kenan.AdvertisementApp.Dtos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.3.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[10.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kenan\\OneDrive\\Masaüstü\\sdf\\Protera\\AdvertisementApp\\Kenan.AdvertisementApp.Common\\Kenan.AdvertisementApp.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kenan\\OneDrive\\Masaüstü\\sdf\\Protera\\AdvertisementApp\\Kenan.AdvertisementApp.Common\\Kenan.AdvertisementApp.Common.csproj",
+        "projectName": "Kenan.AdvertisementApp.Common",
+        "projectPath": "C:\\Users\\kenan\\OneDrive\\Masaüstü\\sdf\\Protera\\AdvertisementApp\\Kenan.AdvertisementApp.Common\\Kenan.AdvertisementApp.Common.csproj",
+        "packagesPath": "C:\\Users\\kenan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kenan\\OneDrive\\Masaüstü\\sdf\\Protera\\AdvertisementApp\\Kenan.AdvertisementApp.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kenan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kenan\\OneDrive\\Masaüstü\\sdf\\Protera\\AdvertisementApp\\Kenan.AdvertisementApp.DataAccess\\Kenan.AdvertisementApp.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kenan\\OneDrive\\Masaüstü\\sdf\\Protera\\AdvertisementApp\\Kenan.AdvertisementApp.DataAccess\\Kenan.AdvertisementApp.DataAccess.csproj",
+        "projectName": "Kenan.AdvertisementApp.DataAccess",
+        "projectPath": "C:\\Users\\kenan\\OneDrive\\Masaüstü\\sdf\\Protera\\AdvertisementApp\\Kenan.AdvertisementApp.DataAccess\\Kenan.AdvertisementApp.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\kenan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kenan\\OneDrive\\Masaüstü\\sdf\\Protera\\AdvertisementApp\\Kenan.AdvertisementApp.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kenan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\kenan\\OneDrive\\Masaüstü\\sdf\\Protera\\AdvertisementApp\\Kenan.AdvertisementApp.Common\\Kenan.AdvertisementApp.Common.csproj": {
+                "projectPath": "C:\\Users\\kenan\\OneDrive\\Masaüstü\\sdf\\Protera\\AdvertisementApp\\Kenan.AdvertisementApp.Common\\Kenan.AdvertisementApp.Common.csproj"
+              },
+              "C:\\Users\\kenan\\OneDrive\\Masaüstü\\sdf\\Protera\\AdvertisementApp\\Kenan.AdvertisementApp.Entities\\Kenan.AdvertisementApp.Entities.csproj": {
+                "projectPath": "C:\\Users\\kenan\\OneDrive\\Masaüstü\\sdf\\Protera\\AdvertisementApp\\Kenan.AdvertisementApp.Entities\\Kenan.AdvertisementApp.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kenan\\OneDrive\\Masaüstü\\sdf\\Protera\\AdvertisementApp\\Kenan.AdvertisementApp.Dtos\\Kenan.AdvertisementApp.Dtos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kenan\\OneDrive\\Masaüstü\\sdf\\Protera\\AdvertisementApp\\Kenan.AdvertisementApp.Dtos\\Kenan.AdvertisementApp.Dtos.csproj",
+        "projectName": "Kenan.AdvertisementApp.Dtos",
+        "projectPath": "C:\\Users\\kenan\\OneDrive\\Masaüstü\\sdf\\Protera\\AdvertisementApp\\Kenan.AdvertisementApp.Dtos\\Kenan.AdvertisementApp.Dtos.csproj",
+        "packagesPath": "C:\\Users\\kenan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kenan\\OneDrive\\Masaüstü\\sdf\\Protera\\AdvertisementApp\\Kenan.AdvertisementApp.Dtos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kenan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kenan\\OneDrive\\Masaüstü\\sdf\\Protera\\AdvertisementApp\\Kenan.AdvertisementApp.Entities\\Kenan.AdvertisementApp.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kenan\\OneDrive\\Masaüstü\\sdf\\Protera\\AdvertisementApp\\Kenan.AdvertisementApp.Entities\\Kenan.AdvertisementApp.Entities.csproj",
+        "projectName": "Kenan.AdvertisementApp.Entities",
+        "projectPath": "C:\\Users\\kenan\\OneDrive\\Masaüstü\\sdf\\Protera\\AdvertisementApp\\Kenan.AdvertisementApp.Entities\\Kenan.AdvertisementApp.Entities.csproj",
+        "packagesPath": "C:\\Users\\kenan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kenan\\OneDrive\\Masaüstü\\sdf\\Protera\\AdvertisementApp\\Kenan.AdvertisementApp.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kenan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kenan\\OneDrive\\Masaüstü\\sdf\\Protera\\AdvertisementApp\\Kenan.AdvertisementApp.UI\\Kenan.AdvertisementApp.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kenan\\OneDrive\\Masaüstü\\sdf\\Protera\\AdvertisementApp\\Kenan.AdvertisementApp.UI\\Kenan.AdvertisementApp.UI.csproj",
+        "projectName": "Kenan.AdvertisementApp.UI",
+        "projectPath": "C:\\Users\\kenan\\OneDrive\\Masaüstü\\sdf\\Protera\\AdvertisementApp\\Kenan.AdvertisementApp.UI\\Kenan.AdvertisementApp.UI.csproj",
+        "packagesPath": "C:\\Users\\kenan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kenan\\OneDrive\\Masaüstü\\sdf\\Protera\\AdvertisementApp\\Kenan.AdvertisementApp.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kenan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\kenan\\OneDrive\\Masaüstü\\sdf\\Protera\\AdvertisementApp\\Kenan.AdvertisementApp.Business\\Kenan.AdvertisementApp.Business.csproj": {
+                "projectPath": "C:\\Users\\kenan\\OneDrive\\Masaüstü\\sdf\\Protera\\AdvertisementApp\\Kenan.AdvertisementApp.Business\\Kenan.AdvertisementApp.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\kenan\source\repos\Udemy.AdvertisementApp\Udemy.AdvertisementApp.Dtos\obj\Debug\net5.0\Udemy.AdvertisementApp.Dtos.csproj.AssemblyReference.cache
+C:\Users\kenan\source\repos\Udemy.AdvertisementApp\Udemy.AdvertisementApp.Dtos\obj\Debug\net5.0\Udemy.AdvertisementApp.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenan\source\repos\Udemy.AdvertisementApp\Udemy.AdvertisementApp.Dtos\obj\Debug\net5.0\Udemy.AdvertisementApp.Dtos.AssemblyInfoInputs.cache
+C:\Users\kenan\source\repos\Udemy.AdvertisementApp\Udemy.AdvertisementApp.Dtos\obj\Debug\net5.0\Udemy.AdvertisementApp.Dtos.AssemblyInfo.cs
+C:\Users\kenan\source\repos\Udemy.AdvertisementApp\Udemy.AdvertisementApp.Dtos\obj\Debug\net5.0\Udemy.AdvertisementApp.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\kenan\source\repos\Udemy.AdvertisementApp\Udemy.AdvertisementApp.Dtos\bin\Debug\net5.0\Udemy.AdvertisementApp.Dtos.deps.json
+C:\Users\kenan\source\repos\Udemy.AdvertisementApp\Udemy.AdvertisementApp.Dtos\bin\Debug\net5.0\Udemy.AdvertisementApp.Dtos.dll
+C:\Users\kenan\source\repos\Udemy.AdvertisementApp\Udemy.AdvertisementApp.Dtos\bin\Debug\net5.0\ref\Udemy.AdvertisementApp.Dtos.dll
+C:\Users\kenan\source\repos\Udemy.AdvertisementApp\Udemy.AdvertisementApp.Dtos\bin\Debug\net5.0\Udemy.AdvertisementApp.Dtos.pdb
+C:\Users\kenan\source\repos\Udemy.AdvertisementApp\Udemy.AdvertisementApp.Dtos\obj\Debug\net5.0\Udemy.AdvertisementApp.Dtos.dll
+C:\Users\kenan\source\repos\Udemy.AdvertisementApp\Udemy.AdvertisementApp.Dtos\obj\Debug\net5.0\ref\Udemy.AdvertisementApp.Dtos.dll
+C:\Users\kenan\source\repos\Udemy.AdvertisementApp\Udemy.AdvertisementApp.Dtos\obj\Debug\net5.0\Udemy.AdvertisementApp.Dtos.pdb

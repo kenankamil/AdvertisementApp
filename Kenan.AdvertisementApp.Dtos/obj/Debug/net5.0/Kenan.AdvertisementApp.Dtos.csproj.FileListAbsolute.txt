@@ -1,0 +1,11 @@
+C:\Users\kenan\OneDrive\Masaüstü\sdf\Protera\AdvertisementApp\Kenan.AdvertisementApp.Dtos\bin\Debug\net5.0\Kenan.AdvertisementApp.Dtos.deps.json
+C:\Users\kenan\OneDrive\Masaüstü\sdf\Protera\AdvertisementApp\Kenan.AdvertisementApp.Dtos\bin\Debug\net5.0\Kenan.AdvertisementApp.Dtos.dll
+C:\Users\kenan\OneDrive\Masaüstü\sdf\Protera\AdvertisementApp\Kenan.AdvertisementApp.Dtos\bin\Debug\net5.0\ref\Kenan.AdvertisementApp.Dtos.dll
+C:\Users\kenan\OneDrive\Masaüstü\sdf\Protera\AdvertisementApp\Kenan.AdvertisementApp.Dtos\bin\Debug\net5.0\Kenan.AdvertisementApp.Dtos.pdb
+C:\Users\kenan\OneDrive\Masaüstü\sdf\Protera\AdvertisementApp\Kenan.AdvertisementApp.Dtos\obj\Debug\net5.0\Kenan.AdvertisementApp.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenan\OneDrive\Masaüstü\sdf\Protera\AdvertisementApp\Kenan.AdvertisementApp.Dtos\obj\Debug\net5.0\Kenan.AdvertisementApp.Dtos.AssemblyInfoInputs.cache
+C:\Users\kenan\OneDrive\Masaüstü\sdf\Protera\AdvertisementApp\Kenan.AdvertisementApp.Dtos\obj\Debug\net5.0\Kenan.AdvertisementApp.Dtos.AssemblyInfo.cs
+C:\Users\kenan\OneDrive\Masaüstü\sdf\Protera\AdvertisementApp\Kenan.AdvertisementApp.Dtos\obj\Debug\net5.0\Kenan.AdvertisementApp.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\kenan\OneDrive\Masaüstü\sdf\Protera\AdvertisementApp\Kenan.AdvertisementApp.Dtos\obj\Debug\net5.0\Kenan.AdvertisementApp.Dtos.dll
+C:\Users\kenan\OneDrive\Masaüstü\sdf\Protera\AdvertisementApp\Kenan.AdvertisementApp.Dtos\obj\Debug\net5.0\ref\Kenan.AdvertisementApp.Dtos.dll
+C:\Users\kenan\OneDrive\Masaüstü\sdf\Protera\AdvertisementApp\Kenan.AdvertisementApp.Dtos\obj\Debug\net5.0\Kenan.AdvertisementApp.Dtos.pdb

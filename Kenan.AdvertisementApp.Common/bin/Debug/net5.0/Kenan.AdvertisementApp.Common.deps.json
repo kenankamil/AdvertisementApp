@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Kenan.AdvertisementApp.Common/1.0.0": {
+        "runtime": {
+          "Kenan.AdvertisementApp.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kenan.AdvertisementApp.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

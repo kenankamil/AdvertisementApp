@@ -1,0 +1,12 @@
+C:\Users\kenan\source\repos\Udemy.AdvertisementApp\Udemy.AdvertisementApp.Entities\bin\Debug\net5.0\Udemy.AdvertisementApp.Entities.deps.json
+C:\Users\kenan\source\repos\Udemy.AdvertisementApp\Udemy.AdvertisementApp.Entities\bin\Debug\net5.0\Udemy.AdvertisementApp.Entities.dll
+C:\Users\kenan\source\repos\Udemy.AdvertisementApp\Udemy.AdvertisementApp.Entities\bin\Debug\net5.0\ref\Udemy.AdvertisementApp.Entities.dll
+C:\Users\kenan\source\repos\Udemy.AdvertisementApp\Udemy.AdvertisementApp.Entities\bin\Debug\net5.0\Udemy.AdvertisementApp.Entities.pdb
+C:\Users\kenan\source\repos\Udemy.AdvertisementApp\Udemy.AdvertisementApp.Entities\obj\Debug\net5.0\Udemy.AdvertisementApp.Entities.csproj.AssemblyReference.cache
+C:\Users\kenan\source\repos\Udemy.AdvertisementApp\Udemy.AdvertisementApp.Entities\obj\Debug\net5.0\Udemy.AdvertisementApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenan\source\repos\Udemy.AdvertisementApp\Udemy.AdvertisementApp.Entities\obj\Debug\net5.0\Udemy.AdvertisementApp.Entities.AssemblyInfoInputs.cache
+C:\Users\kenan\source\repos\Udemy.AdvertisementApp\Udemy.AdvertisementApp.Entities\obj\Debug\net5.0\Udemy.AdvertisementApp.Entities.AssemblyInfo.cs
+C:\Users\kenan\source\repos\Udemy.AdvertisementApp\Udemy.AdvertisementApp.Entities\obj\Debug\net5.0\Udemy.AdvertisementApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\kenan\source\repos\Udemy.AdvertisementApp\Udemy.AdvertisementApp.Entities\obj\Debug\net5.0\Udemy.AdvertisementApp.Entities.dll
+C:\Users\kenan\source\repos\Udemy.AdvertisementApp\Udemy.AdvertisementApp.Entities\obj\Debug\net5.0\ref\Udemy.AdvertisementApp.Entities.dll
+C:\Users\kenan\source\repos\Udemy.AdvertisementApp\Udemy.AdvertisementApp.Entities\obj\Debug\net5.0\Udemy.AdvertisementApp.Entities.pdb
